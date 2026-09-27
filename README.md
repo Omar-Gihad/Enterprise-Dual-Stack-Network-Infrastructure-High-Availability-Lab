@@ -1,5 +1,7 @@
 # Enterprise Dual-Stack Network Infrastructure & High-Availability Lab
 
+![Enterprise Dual-Stack Network Topology](screenshots/01-topology.png)
+
 ## Overview
 
 A complete enterprise network infrastructure lab designed and implemented in Cisco Packet Tracer.
