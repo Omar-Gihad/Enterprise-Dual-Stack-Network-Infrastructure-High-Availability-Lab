@@ -1,6 +1,6 @@
 # Enterprise Dual-Stack Network Infrastructure & High-Availability Lab
 
-![Enterprise Dual-Stack Network Topology](screenshots/01-topology.png)
+![Enterprise Dual-Stack Network Topology](Screenshots/01-topology.png)
 
 ## Overview
 
